@@ -1,1 +1,1 @@
-Golden layout demo
+The Golden layout demo
